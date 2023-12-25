@@ -1,4 +1,4 @@
-# Crop Recommendation using LightBGM
+# Customer Satisfaction using ANN
 
 This repository is an example of using simple ANN deep learning model to perform a binary classification of customer satisfaction.
 
